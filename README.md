@@ -8,7 +8,7 @@
 
 type
 
-*apt install apache2 php php-fpm php-ssh2 -y\*
+**apt install apache2 php php-fpm php-ssh2 -y\**
 
 *service apache2 restart*
 
@@ -32,4 +32,4 @@ ETH: 0x59b1292D0533932A80e19AaCF0Db4287fc9361Ae
 
 (PayPal)
 
-https://paypal.me/paytowiner``
+https://paypal.me/paytowiner ``
