@@ -4,25 +4,25 @@
 
 **how to install?**
 
-put api.php in /var/www/html
+*put api.php in /var/www/html*
 
 type
 
-apt install apache2 php php-fpm php-ssh2 -y\
+*apt install apache2 php php-fpm php-ssh2 -y\*
 
-service apache2 restart
+*service apache2 restart*
 
-DONE!
+**DONE!**
 
-Example api link:
+***Example api link:***
 
-http://YOURVPSIP/api.php?key=Key&host=[host]&port=[port]&time=[time]&method=[method]
+``http://YOURVPSIP/api.php?key=Key&host=[host]&port=[port]&time=[time]&method=[method]``
 
-(without [])
+**(without [])***
 
 Join in discord for Help/Questions https://discord.gg/EJADAtnyDV
 
-DONATE:
+``DONATE:
 
 (Crypto)
 
@@ -32,4 +32,4 @@ ETH: 0x59b1292D0533932A80e19AaCF0Db4287fc9361Ae
 
 (PayPal)
 
-https://paypal.me/paytowiner
+https://paypal.me/paytowiner``
