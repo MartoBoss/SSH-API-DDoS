@@ -3,7 +3,7 @@ https://paypal.me/paytowiner ||
 
 <?php
 $servers = array(
-    array('vsp ip', array('root', 'vsp password')) //You can add more servers by copying&pasting the command and adding a command on the one above
+    array('vsp_ip', array('root', 'fvps_password')) // ur server information
 );
 class ssh2
 {
