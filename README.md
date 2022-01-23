@@ -1,8 +1,8 @@
 # SSH-API-DDoS
 
-For Ubuntu 18v,20v
+``For Ubuntu 18v,20v``
 
-how to install?
+**how to install?**
 
 put api.php in /var/www/html
 
